@@ -65,3 +65,5 @@ xmlto
 xxd
 xz-utils
 zlib1g-dev
+lvm2
+btrfs-progs
