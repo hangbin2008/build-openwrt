@@ -64,6 +64,9 @@ wget
 xmlto
 xxd
 xz-utils
+libncurses-dev
+pkg-config
+libtinfo5
 zlib1g-dev
 lvm2
 btrfs-progs
